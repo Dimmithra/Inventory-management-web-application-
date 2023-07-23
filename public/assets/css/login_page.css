@@ -1,0 +1,19 @@
+body{
+    /* background-color: blue;
+    color: green; */
+}
+label{
+    font-size: 20;
+    font-weight: bolder;
+    text-align: left;
+ }.signin-form{
+    padding-top: 100px;
+    text-align: left;
+    color: black;
+    width: 300px;
+    border-radius: 10px;
+    border-color: black;
+}
+.fogot-Password{ 
+    color: green;
+}
